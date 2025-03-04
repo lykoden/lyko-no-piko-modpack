@@ -70,7 +70,7 @@ Ce modpack a été testé sur:
 - Certains shaders peuvent ne pas être compatibles avec tous les mods visuels
 
 ## Crédits
-- Créateur du modpack: @laxe4k
+- Créateur du modpack: [@laxe4k](https://github.com/laxe4k)
 
 ## Licence
 Ce projet est distribué sous la licence MIT. Voir le fichier LICENSE pour plus de détails.
