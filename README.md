@@ -1,1 +1,1 @@
-# lyko-no-piko-modpack
+# Lyko no Piko - Modpack
