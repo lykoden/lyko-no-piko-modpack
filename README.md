@@ -56,8 +56,9 @@ Lyko no Piko est un modpack Minecraft conçu pour améliorer l'expérience de je
 
 ## Installation
 Consultez la section [releases](https://github.com/lykoden/lyko-no-piko-modpack/releases) pour des instructions détaillées. Deux options d'installation sont disponibles :
-- **Lyko.no.Piko.1.0.0.mrpack** : Installation via Modrinth.
-- **Lyko.no.Piko.1.0.0.zip** : Installation via CurseForge.
+- **Lyko.no.Piko.1.1.0.mrpack** : Installation via Modrinth.  
+- **Lyko.no.Piko.1.1.0.zip** : Installation via CurseForge.  
+- **Lyko.no.Piko.1.1.0.Mods.zip** : Téléchargez uniquement les mods individuels.
 
 ## Configuration requise
 - **Version de Minecraft** : 1.21.4  
